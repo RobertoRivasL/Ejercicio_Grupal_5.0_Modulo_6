@@ -64,3 +64,29 @@ El Datos de apoyo al planteamiento
 | Recursos Bibliográficos:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | <p></p><p>**Spring MVC: Configuración**</p><p><https://www.javatutoriales.com/2015/12/spring-mvc-parte-1-configuracion.html></p><p></p><p>**Introducción a MVC en Spring**</p><p><http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion03-apuntes.html></p><p></p><p>**Crear un proyecto MVC con Spring Tool Suite (STS)**</p><p><https://www.youtube.com/watch?v=eMG9qi061D8></p><p></p><p>**Spring MVC - Cómo incluir archivos CSS o JS en una página JSP**</p><p><https://mkyong.com/spring-mvc/spring-mvc-how-to-include-js-or-css-files-in-a-jsp-page/></p><p></p><p>**Log con log4j**</p><p><https://www.es.w3ki.com/spring/logging_with_log4j.html></p><p></p><p>**Spring Crud con JDBC Template y Oracle**</p><p><https://www.javainterviewpoint.com/spring-crud-example-jdbctemplate/></p> |
 
+
+
+![Static Badge](https://img.shields.io/badge/Ejercicio%20Grupal%205.0%20-%20Modulo%206%20-%20%238A2BE2?logo=springboot&labelColor=abcdef&cacheSeconds=3200)
+
+
+![GitHub last commit](https://img.shields.io/badge/Integrantes%20%3A%20-%20%237E7E73?cacheSeconds=7200
+) ![GitHub code size in bytes](https://img.shields.io/badge/Bastian%20Mariangel%20-%20%2350CAC0?cacheSeconds=7200
+)
+![GitHub last commit](https://img.shields.io/badge/Ivan%20Mieres%20-%20%23D8DA31?cacheSeconds=7200
+)
+![GitHub last commit](https://img.shields.io/badge/Patricio%20Bonnin%20-%20%23E87215?cacheSeconds=7200
+)
+![GitHub last commit](https://img.shields.io/badge/Roberto%20Rivas%20-%20%23F70910?cacheSeconds=7200
+)
+![GitHub last commit](https://img.shields.io/badge/Angelica%20Romero%20-%20%23A613DB?color=rgba(181%2C%2028%2C%20230%2C%200.8)&cacheSeconds=7200
+)
+
+
+## Información de Archivos del proyecto
+
+• Si desea conectarse a la base de datos del proyecto recuerde cambiar la contraseña y Usuario de MySQL
+en el archivo application.yml en la ruta: 
+
+src\main\java\resources\application.yml
+
+• La base de datos se encuentra en :  src\main\resources\prev_riesgo.sql
